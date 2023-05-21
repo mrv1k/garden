@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "public/Преступление и Наказание.md",
+                "file": "public/Crime and Punishment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "public/Преступление и Наказание.md",
+                "file": "public/Crime and Punishment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "public/Преступление и Наказание.md",
+                "file": "public/Crime and Punishment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "public/Преступление и Наказание.md"
+                "file": "public/Crime and Punishment.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "lastOpenFiles": [
     "private/README.md",
     "README.md",
-    "public/Преступление и Наказание.md",
+    "public/Crime and Punishment.md",
     "private/mekmek",
     "garden.code-workspace"
   ]
